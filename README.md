@@ -1,6 +1,6 @@
 📦 HabZone – EDMC 6.x Compatibility Update
 
-Version: 1.20-edmc6
+Version: 1.21-edmc6
 Status: Stable
 Tested with: EDMarketConnector 6.1.1, Python 3.13
 
