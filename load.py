@@ -30,7 +30,7 @@ from config import config
 from l10n import Locale
 
 # Bump: EDMC 6.x / Python 3.x compatibility
-VERSION = '1.20-edmc6'
+VERSION = '1.21-edmc6'
 
 SETTING_DEFAULT = 0x0002    # Earth-like
 SETTING_EDSM    = 0x1000
