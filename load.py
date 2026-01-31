@@ -9,7 +9,7 @@ import myNotebook as nb
 from config import config
 from l10n import Locale
 
-VERSION = "1.20-edmc6-slim"
+VERSION = "1.22-edmc6-slim"
 
 LOG = logging.getLogger("HabZone")
 
