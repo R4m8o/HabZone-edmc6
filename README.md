@@ -6,17 +6,6 @@ Version: 1.22-edmc6
 Status: Stable
 Tested with: EDMarketConnector 6.1.1, Python 3.13
 
-# Changes:
-
-A streamlined EDMC 6.x–compatible update of HabZone, focused on reliability and maintainability.
-Automatically restores habitable zone distances after EDMC restart
-Uses Elite Dangerous journal files to detect the current system on startup
-Optional k/M distance abbreviation and exact-value tooltips
-Manual Recalc button included
-Optional verbose logging for troubleshooting
-Refactored and cleaned-up codebase (no legacy Python 2 support)
-➡️ No system jump required after restart – values appear instantly.
-
 ## Installation
 
 * On EDMC's Plugins settings tab press the “Open” button. This reveals the `plugins` folder where EDMC looks for plugins.
